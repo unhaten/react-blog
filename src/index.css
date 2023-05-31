@@ -20,6 +20,9 @@
 .navbar .links {
     margin-left: auto;
 }
+.ml {
+    margin-right: auto;
+}
 .navbar a {
     margin-left: 16px;
     text-decoration: none;
