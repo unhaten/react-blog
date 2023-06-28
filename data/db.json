@@ -1,22 +1,16 @@
 {
-    "blogs": [
-        {
-            "title": "new website",
-            "body": "lorem ipsum",
-            "author": "mario",
-            "id": 1
-        },
-        {
-            "title": "top shelf pussy got me disappointed in myself",
-            "body": "lorem ipsum",
-            "author": "carl",
-            "id": 2
-        },
-        {
-            "title": "one time for my bitches, two times for my guys",
-            "body": "lorem ipsum",
-            "author": "karen",
-            "id": 3
-        }
-    ]
+  "blogs": [
+    {
+      "title": "new website",
+      "body": "lorem ipsum",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "top shelf pussy got me disappointed in myself",
+      "body": "lorem ipsum",
+      "author": "carl",
+      "id": 2
+    }
+  ]
 }
